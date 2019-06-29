@@ -32,7 +32,7 @@ There are three main foleders:
        - classifier.pkl: output of the machine learning pipeline, i.e. a trained classifer
     3. app
        - run.py: Flask file to run the web application
-       - templates contains html file for the web applicatin
+       - templates contains html file for the web application
 
 
 ## 3. Results
