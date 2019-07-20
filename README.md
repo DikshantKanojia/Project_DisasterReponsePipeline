@@ -53,3 +53,28 @@ There are three main foleders:
 
     - Go to http://0.0.0.0:3001/
 
+<a name="authors"></a>
+## Authors
+
+* [Dikshant Kanojia](https://github.com/DikshantKanojia)
+
+
+## Acknowledgements
+
+* [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
+* [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
+
+<a name="screenshots"></a>
+## Screenshots
+
+1. This is an example of a message you can type to test Machine Learning model performance
+
+![Sample Input](https://github.com/DikshantKanojia/Project_DisasterReponsePipeline/blob/master/app/Screen%20Shot%202019-07-19%20at%206.19.22%20PM.png)
+
+2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
+
+![Sample Output](https://github.com/DikshantKanojia/Project_DisasterReponsePipeline/blob/master/app/disaster-response-project3.png)
+
+3. The main page shows some graphs about training dataset, provided by Figure Eight
+
+![Main Page](https://github.com/DikshantKanojia/Project_DisasterReponsePipeline/blob/master/app/disaster-response-project1.png)
